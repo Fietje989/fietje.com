@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fietje.com</title>
+</head>
+<body>
+    <h1>Willkommen auf Fietje.com!</h1>
+    <p>Das ist meine eigene Website 😎</p>
+</body>
+</html>
